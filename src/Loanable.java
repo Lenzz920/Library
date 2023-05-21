@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Loanable {
+public interface Loanable {
+
+    private void rentBook(){}
 }
